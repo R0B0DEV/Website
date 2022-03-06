@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>R0B0_DEV_UPDATES</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/x-icon" href="https://www.norwegiancreations.com/wp-content/uploads/2018/05/Space-Invader.jpg">
+        <link rel="stylesheet" href="styles.css" >
+        <style>
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+        </style>
+        </head>
+    
+        <body>
+        <div class="topnav">
+  <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="#">Updates</a></li>
+  <li><a href="#">Contact Me</a></li>
+  <li><a href="#">About Me</a></li>
+</ul>
+    </div>
+            
+            
+<div class="content">
+    <div class="head">
+    <h1>06/03/2022 - Website Creation</h1>
+    </div>
+    <p>Made a website to promote myself, feel free to check it all out!</p>
+</div>
+    </body>
+</html>
