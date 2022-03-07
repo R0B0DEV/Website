@@ -82,3 +82,7 @@ h1 {
 a {
 color:white;
 }
+
+a:focus {
+    color:#A0F392
+}
