@@ -86,3 +86,14 @@ color:white;
 a:focus {
     color:#A0F392
 }
+
+li.logo {
+    float: right;
+    background-color:#A0F392;
+}
+
+p.logo {
+    margin:14px;
+    text-align: left;
+    color:#333
+}
