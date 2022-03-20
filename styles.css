@@ -97,3 +97,64 @@ p.logo {
     text-align: left;
     color:#333
 }
+
+
+img.sym{
+    
+    filter: invert(92%) sepia(9%) saturate(1759%) hue-rotate(52deg) brightness(94%) contrast(103%);
+    width: 120px;
+    height: 80px;
+    
+    float: left;    
+}
+
+
+    
+    
+    
+    
+
+a.contact{
+
+    float:left;
+    display:block;
+    background-color: #333;
+    
+
+        
+   }
+   
+   a.contact:hover{
+       background-color: #A0F392;
+   
+   }
+    
+   
+   p.contact-text{
+       font-size: 30px;
+   }
+
+   
+
+
+
+
+
+.contact:hover .contact-text{
+    color:#292929;
+    transition:0.5s;    
+}
+
+.contact:hover .sym{
+    filter: invert(10%) sepia(1%) saturate(0%) hue-rotate(147deg) brightness(99%) contrast(85%);
+    transition: 0.5s;
+    
+}
+
+.texts{
+    float:left;
+    padding-left:20px;
+    padding-right:5px;
+}
+
+
